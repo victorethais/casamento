@@ -1,0 +1,48 @@
+{
+    "name": "finances",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "history": "^5.0.0",
+        "moment": "^2.29.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-icons": "^3.11.0",
+        "react-router": "^5.2.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.4.3",
+        "react-spinners": "^0.9.0",
+        "styled-components": "^5.2.0"
+    },
+    "homepage": "https://victorethais.github.io/casamento",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "deploy": "react-scripts build & gh-pages -d build"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.2.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-import": "^2.22.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "gh-pages": "^3.1.0",
+        "prettier": "^2.1.1"
+    }
+}
