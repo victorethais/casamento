@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/casamento/static/js/main.32fd59a2.chunk.js",
-    "main.js.map": "/casamento/static/js/main.32fd59a2.chunk.js.map",
+    "main.js": "/casamento/static/js/main.100a1443.chunk.js",
+    "main.js.map": "/casamento/static/js/main.100a1443.chunk.js.map",
     "runtime-main.js": "/casamento/static/js/runtime-main.b5558441.js",
     "runtime-main.js.map": "/casamento/static/js/runtime-main.b5558441.js.map",
     "static/js/2.735fb6cc.chunk.js": "/casamento/static/js/2.735fb6cc.chunk.js",
     "static/js/2.735fb6cc.chunk.js.map": "/casamento/static/js/2.735fb6cc.chunk.js.map",
     "index.html": "/casamento/index.html",
-    "precache-manifest.8accb266d1d77fc324fd02177b5a0dc8.js": "/casamento/precache-manifest.8accb266d1d77fc324fd02177b5a0dc8.js",
+    "precache-manifest.06aaef96536e03680d416165fa23c78c.js": "/casamento/precache-manifest.06aaef96536e03680d416165fa23c78c.js",
     "service-worker.js": "/casamento/service-worker.js",
     "static/js/2.735fb6cc.chunk.js.LICENSE.txt": "/casamento/static/js/2.735fb6cc.chunk.js.LICENSE.txt",
     "static/media/flor.png": "/casamento/static/media/flor.47dc2469.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.b5558441.js",
     "static/js/2.735fb6cc.chunk.js",
-    "static/js/main.32fd59a2.chunk.js"
+    "static/js/main.100a1443.chunk.js"
   ]
 }
