@@ -32,10 +32,15 @@ export default function Convite() {
             </Info>
 
             <Presentear>
-                Gostaria de nos presentear? Acesse no lista abaixo.
+                Gostaria de nos presentear? Acesse nossa lista abaixo.
             </Presentear>
 
-            <Btn href="!#">Lista de presentes</Btn>
+            <Btn
+                href="https://www.querodecasamento.com.br/lista-de-casamento/victor-s2-thais"
+                target="blank"
+            >
+                Lista de presentes
+            </Btn>
 
             <Frase>
                 "Para sermos felizes precisamos de amor, família e amigos.
