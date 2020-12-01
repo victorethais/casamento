@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec6c409e0e93959525522aff2ffdff9e",
+    "revision": "5ee0934f0c0f5c0116544f7cd6095e66",
     "url": "/casamento/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/casamento/static/js/2.735fb6cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f8904a422baa0b2c843",
-    "url": "/casamento/static/js/main.100a1443.chunk.js"
+    "revision": "f33cc24d2b3a24f65303",
+    "url": "/casamento/static/js/main.678a3dd3.chunk.js"
   },
   {
     "revision": "e3316ee0feb3d3ceb6b6",
