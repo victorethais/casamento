@@ -23,7 +23,7 @@ export default function Convite() {
             </Text>
 
             <Date>
-                09 de Janeiro de 2021 <br /> às 17h30
+                09 de Janeiro de 2021 <br /> às 17h45
             </Date>
 
             <Local>Buffet Green House</Local>
